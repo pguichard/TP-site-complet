@@ -1,0 +1,51 @@
+
+/*header*/
+header {
+  background-color: aliceblue;
+}
+#image-tete { 
+  display: flex;
+  width: 600px;
+  height: 200px;
+ }
+h1 {
+  text-align: center;
+  color: #EF233C;
+}
+nav a { 
+  display: block;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+}
+
+/* body*/
+
+h3 {
+  text-decoration: underline dotted;
+  color: #2B2D42;
+}
+
+article {
+  border: 1px black solid;
+}
+
+img {
+  display: block;
+  margin: auto;
+  border: 2px #8D99AE solid;
+  width: 100px;
+  height: 200px;
+}
+
+/*footer*/
+
+footer {
+  text-align: end;
+}
+
+footer li {
+  list-style: none;
+}
